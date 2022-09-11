@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="688d2a31-7023-4b2c-a38c-ea66bcfb3d0d" name="Changes" comment="" />
+    <list default="true" id="688d2a31-7023-4b2c-a38c-ea66bcfb3d0d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UVUColorMatching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVUColorMatching/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/IDContainerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/MatchBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/SpriteBehavior.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Documents/SchoolHousingWork/Personal/UVU Animation and Game/1610Fall2020/Elite Jammer/Assets/Scripts/TextBehavior.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +77,9 @@
       <option name="presentableId" value="Default" />
       <updated>1662608363186</updated>
       <workItem from="1662608367369" duration="4507000" />
-      <workItem from="1662623221351" duration="6247000" />
+      <workItem from="1662623221351" duration="7113000" />
+      <workItem from="1662833641499" duration="2226000" />
+      <workItem from="1662840437452" duration="4162000" />
     </task>
     <servers />
   </component>
@@ -82,4 +89,15 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </project>
