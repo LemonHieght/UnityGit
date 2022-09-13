@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="688d2a31-7023-4b2c-a38c-ea66bcfb3d0d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UVUColorMatching/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UVUColorMatching/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyTools/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyTools/README.md.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/MatchBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/MatchBehavior.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyTools/Scripts/Events/MonoEventsBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyTools/Scripts/Events/MonoEventsBehavior.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/MyTools/Scripts/ScriptableObject/IntData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyTools/Scripts/ScriptableObject/IntData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/MyTools/Scripts/UI/TextBehavior.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/MyTools/Scripts/UI/TextBehavior.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/RiderScriptEditorPersistedState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +14,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/ColorID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/CoroutineBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/DragableBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/IDContainerBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/MyTools/Scripts/ColorMatching/MatchBehavior.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,6 +82,7 @@
       <workItem from="1662623221351" duration="7113000" />
       <workItem from="1662833641499" duration="2226000" />
       <workItem from="1662840437452" duration="7145000" />
+      <workItem from="1662940989495" duration="4419000" />
     </task>
     <servers />
   </component>
